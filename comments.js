@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // http://localhost:3000/comments
 app.get('/comments', function(req, res){
     // connect to the database
